@@ -1,0 +1,31 @@
+{
+  "name": "learn-mocha",
+  "version": "1.0.0",
+  "description": "testing-lab for mocha use",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstatro/learn-mocha.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Colin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cstatro/learn-mocha/issues"
+  },
+  "homepage": "https://github.com/cstatro/learn-mocha#readme"
+}
